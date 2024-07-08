@@ -56,20 +56,19 @@
 
 | 역할        | 이름  | 인스타 아이디            | 코멘트                          |
 | ----------- | ----- | ----------------------- | ------------------------------- |
-| 회장        | 김근희 | 동아리 운영 총괄       | [GitHub](https://github.com/honggildong) |
-| 부회장      | 김철수 | 회장 보좌 및 행사 기획 | [GitHub](https://github.com/kimchulsoo) |
-| 교육 담당   | 이영희 | SW 교육 커리큘럼 제작  | [GitHub](https://github.com/leeyounghee) |
-| 창업 담당   | 박영수 | 창업 프로그램 기획     | [GitHub](https://github.com/parkyoungsoo) |
-| 홍보 담당   | 최미나 | 대외 홍보 및 소셜 미디어 관리 | [GitHub](https://github.com/choemina) |
-
+| 회장        | 김근희 | @g._.nya12       | 함께 재밌고 알차게 보낼 수 있도록 열심히 하겠습니다!👊 |
+| 부회장      | 윤규원 | @bethevvon | 잘 부탁드립니다~~~😆 |
+| 총무  | 김근찬 | @pau._.ler29  | 빈머리 감자 총무이지만, 열심히 하겠습니다!!💪|
+| 운영진   | 이은새 | @eunsae.03    | Getit 2기부터 함께 했고 3,4,5기 운영진을 맡고 있습니다. 겟잇 활동이나 학교 생활 관련해서 궁금한 거 있으시면 편하게 연락주시면 됩니다~ 잘 부탁드립니다!! |
+| 운영진   | 이재원 | @jaewon_0607 | 저는 말하는 감자일뿐입니다! 편하게 대해주세요😁 |
+| 운영진   | 박경민 | @re_min_iscent27 | 당신의 길이 곧 세상의 길이다! GET IT 함께 재밌게 해봐요!👋 |
+| 운영진   | 하윤지 | @yunj2i | 열심히 하겠습니당🔥 뭐든 궁금하신 점 있으시면 편하게 연락주세요! 잘 부탁드립니다!! |
 </br></br>
 
 ## 📫 연락처
 
 - 이메일: getit0official@gmail.com
-- 페이스북: [GET IT Facebook](https://www.facebook.com/getitknu)
-- 인스타그램: [GET IT Instagram](https://www.instagram.com/getitknu)
-
+- 인스타그램: [GET IT Instagram](https://www.instagram.com/get_it_knu_official)
 </br></br>
 
 ### 🤗 GET IT의 활동에 대해 더 알고싶다면?
