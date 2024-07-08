@@ -68,8 +68,8 @@
 
 ## 📫 연락처
 
-💌 getit0official@gmail.com
-  <a href="https://instagram.com/get_it_knu_official">
+💌 getit0official@gmail.com </br>
+<a href="https://instagram.com/get_it_knu_official">
     <img 
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/get_it_knu_official/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
