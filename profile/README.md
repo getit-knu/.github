@@ -1,7 +1,6 @@
 # 안녕하세요👋 GET IT 입니다!
 
 🌊 **"우리가 모이면 바다가 된다!"** 라는 캐치프라이즈에 맞게 함께 모여 무엇이든 이루기 위해 노력하는 것을 목표로 합니다.
-
 </br></br>
 
 ## ⭐ GET IT은?!
@@ -10,14 +9,12 @@
 - ✊🏻 비전공자와 전공자 모두 참여할 수 있는 동아리
 
 **GET IT**은 단시간에 효율적인 성장과 즐거운 배움을 모토로 달려나갈 준비가 되어있는 사람들의 모임입니다.
-
 </br></br>
 
 ## 👉 GET IT의 목표
 
 - **자체적인 SW & 창업 교육 커리큘럼**에 따라 SW개발에 관심있는 누구나 스스로의 아이디어를 상상에 그치지 않고 구현할 수 있도록 지원하고 있습니다.
 - 교내외 창업경진대회, 각종 해커톤 등 대외행사에 활발히 참여하고, 창업의 꿈을 가졌거나 SW개발에 관심있는 학우들의 성장을 적극적으로 돕는 동아리입니다.
-
 </br></br>
 
 ## 🧑‍💻 GET IT의 주요활동
@@ -53,14 +50,13 @@
 ### 🏆 GET IT 어워즈
 - 한 학기의 활동을 되돌아보는 행사
 - 해커톤 심사 결과 최종 순위 발표
-
 </br></br>
 
 ## 🦄 GET IT 운영진
 
-| 역할        | 이름  | 역할 설명               | GitHub                          |
+| 역할        | 이름  | 인스타 아이디            | 코멘트                          |
 | ----------- | ----- | ----------------------- | ------------------------------- |
-| 회장        | 홍길동 | 동아리 운영 총괄       | [GitHub](https://github.com/honggildong) |
+| 회장        | 김근희 | 동아리 운영 총괄       | [GitHub](https://github.com/honggildong) |
 | 부회장      | 김철수 | 회장 보좌 및 행사 기획 | [GitHub](https://github.com/kimchulsoo) |
 | 교육 담당   | 이영희 | SW 교육 커리큘럼 제작  | [GitHub](https://github.com/leeyounghee) |
 | 창업 담당   | 박영수 | 창업 프로그램 기획     | [GitHub](https://github.com/parkyoungsoo) |
@@ -70,11 +66,11 @@
 
 ## 📫 연락처
 
-- 이메일: getit@knu.ac.kr
+- 이메일: getit0official@gmail.com
 - 페이스북: [GET IT Facebook](https://www.facebook.com/getitknu)
 - 인스타그램: [GET IT Instagram](https://www.instagram.com/getitknu)
-- 홈페이지: [GET IT Website](http://getit.knu.ac.kr)
 
 </br></br>
 
-우리와 함께 하고 싶으신가요? 언제든지 연락 주세요! 함께 성장하고 배우는 즐거움을 나누어요 😊
+### 🤗 GET IT에 대해 더 알고싶다면?
+👉 [GET IT 5기 노션](https://www.notion.so/GET-IT-5th-Member-Page-GET-IT-5-350510dfc93945d1b5af99566b26baae?pvs=4)
