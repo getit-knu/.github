@@ -1,5 +1,7 @@
 # 안녕하세요👋 GET IT 입니다!
 
+
+![image](https://github.com/getit-knu/.github/assets/105257807/ddb94e59-ad5b-4b09-aaa1-ab25ca599504)
 🌊 **"우리가 모이면 바다가 된다!"** 라는 캐치프라이즈에 맞게 함께 모여 무엇이든 이루기 위해 노력하는 것을 목표로 합니다.
 </br></br>
 
@@ -7,8 +9,6 @@
 
 ✊🏻 경북대학교 IT대학 컴퓨터학부 SW&창업 동아리</br>
 ✊🏻 비전공자와 전공자 모두 참여할 수 있는 동아리
-
-![image](https://github.com/getit-knu/.github/assets/105257807/ddb94e59-ad5b-4b09-aaa1-ab25ca599504)
 
 **GET IT**은 단시간에 효율적인 성장과 즐거운 배움을 모토로 달려나갈 준비가 되어있는 사람들의 모임입니다.
 </br></br>
