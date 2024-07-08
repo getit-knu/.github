@@ -70,6 +70,11 @@
 
 - 이메일: getit0official@gmail.com
 - 인스타그램: [GET IT Instagram](https://www.instagram.com/get_it_knu_official)
+- <a href="https://instagram.com/get_it_knu_official">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/get_it_knu_official/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 </br></br>
 
 ### 🤗 GET IT의 활동에 대해 더 알고싶다면?
