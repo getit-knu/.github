@@ -5,8 +5,8 @@
 
 ## ⭐ GET IT은?!
 
-- ✊🏻 경북대학교 IT대학 컴퓨터학부 SW&창업 동아리
-- ✊🏻 비전공자와 전공자 모두 참여할 수 있는 동아리
+✊🏻 경북대학교 IT대학 컴퓨터학부 SW&창업 동아리</br>
+✊🏻 비전공자와 전공자 모두 참여할 수 있는 동아리
 
 **GET IT**은 단시간에 효율적인 성장과 즐거운 배움을 모토로 달려나갈 준비가 되어있는 사람들의 모임입니다.
 </br></br>
@@ -68,8 +68,8 @@
 
 ## 📫 연락처
 
-- 📧getit0official@gmail.com
-- 🫧[GET IT Instagram](https://www.instagram.com/get_it_knu_official)
+📧getit0official@gmail.com</br>
+🫧[GET IT Instagram](https://www.instagram.com/get_it_knu_official)
 </br></br>
 
 ### 🤗 GET IT의 활동에 대해 더 알고싶다면?
