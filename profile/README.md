@@ -1,5 +1,6 @@
 # 안녕하세요👋 GET IT 입니다!
 
+![image](https://github.com/getit-knu/.github/assets/105257807/ddb94e59-ad5b-4b09-aaa1-ab25ca599504)
 🌊 **"우리가 모이면 바다가 된다!"** 라는 캐치프라이즈에 맞게 함께 모여 무엇이든 이루기 위해 노력하는 것을 목표로 합니다.
 </br></br>
 
