@@ -72,5 +72,5 @@
 
 </br></br>
 
-### 🤗 GET IT에 대해 더 알고싶다면?
-👉 [GET IT 5기 노션](https://www.notion.so/GET-IT-5th-Member-Page-GET-IT-5-350510dfc93945d1b5af99566b26baae?pvs=4)
+### 🤗 GET IT의 활동에 대해 더 알고싶다면?
+👉 [GET IT 5기 노션](https://www.notion.so/GET-IT-5th-Member-Page-GET-IT-5-350510dfc93945d1b5af99566b26baae?pvs=4) 을 둘러보세요!
