@@ -68,12 +68,8 @@
 
 ## 📫 연락처
 
-💌 getit0official@gmail.com </br>
-<a href="https://instagram.com/get_it_knu_official">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/get_it_knu_official/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+- 📧getit0official@gmail.com
+- 🫧[GET IT Instagram](https://www.instagram.com/get_it_knu_official)
 </br></br>
 
 ### 🤗 GET IT의 활동에 대해 더 알고싶다면?
